@@ -1,0 +1,2 @@
+language = "bash"
+run = "javac NameOrganizer.java && java NameOrganizer"
